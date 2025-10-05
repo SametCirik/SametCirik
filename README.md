@@ -37,6 +37,7 @@ I'm a technology enthusiast focused on finding solutions through **unconventiona
 </div>
 
 <!-- Snake Animation -->
+![snake_gif](https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg)
 
 ----
 
