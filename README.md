@@ -1,13 +1,52 @@
 # Hello! I'm Samet Cırık!
 
----
 <!--
 ## About me
 
 I'm a technology enthusiast focused on finding solutions through **unconventional methods**, always learning from my mistakes to push myself forward. For me, coding is more than just a tool; it's the art of building my own solutions and vision from the ground up. I am currently active in **Game Development (C# & Unity)** and **Desktop UI/UX Applications (Java)**.
 
 ---
+
+
+<!--
+### My Approach to Development:
+
+- **Detail-Oriented:** I dive deep into details to ensure that everything delivered to the user is polished and intuitive.
+- **Continuous Learning:** I am always open to new technologies and challenges. My failures are valuable lessons that open the door to the next solution.
+- **Solo Drive:** I generally prefer to execute my projects **independently**. Working with a high degree of autonomy in line with my own vision allows me to achieve the best results. *(I am aware of the challenges this preference presents and aim to develop my collaborative skills over time.)*
+
+Take a look at the projects that excite me the most and which I believe have high potential. ***Every line of code I write is a story of learning and progress.***
+
 -->
+
+## Description/Listed Technologies:
+
+### Core Strength:
+- ***Java***
+- **Arduino** 
+- **Python**
+
+### Other Proficiency Areas (from most to least):
+- **C#**
+- **C++**
+- **C**
+
+### Interested/Learning Languages:
+- **Ruby**
+- **Go**
+- **Swift**
+- **CSS**
+- **JavaScript**
+
+<!--
+### Special Focus Areas:
+
+- **Artificial Intelligence** (AI)
+- **Game Development** (Unity or Unreal Engine)
+- **VR Technologies**
+-->
+
+-----
 
 <!-- TODO: Github grafikleri vesaire buraya eklenecek. -->
 
@@ -57,46 +96,6 @@ I'm a technology enthusiast focused on finding solutions through **unconventiona
 </div>
 
 ----
-
-<!--
-### My Approach to Development:
-
-- **Detail-Oriented:** I dive deep into details to ensure that everything delivered to the user is polished and intuitive.
-- **Continuous Learning:** I am always open to new technologies and challenges. My failures are valuable lessons that open the door to the next solution.
-- **Solo Drive:** I generally prefer to execute my projects **independently**. Working with a high degree of autonomy in line with my own vision allows me to achieve the best results. *(I am aware of the challenges this preference presents and aim to develop my collaborative skills over time.)*
-
-Take a look at the projects that excite me the most and which I believe have high potential. ***Every line of code I write is a story of learning and progress.***
-
--->
-
-## Description/Listed Technologies:
-
-### Core Strength:
-- ***Java***
-- **Arduino** 
-- **Python**
-
-### Other Proficiency Areas (from most to least):
-- **C#**
-- **C++**
-- **C**
-
-### Interested/Learning Languages:
-- **Ruby**
-- **Go**
-- **Swift**
-- **CSS**
-- **JavaScript**
-
-<!--
-### Special Focus Areas:
-
-- **Artificial Intelligence** (AI)
-- **Game Development** (Unity or Unreal Engine)
-- **VR Technologies**
--->
-
------
 
 <!-- Snake Animation -->
 ![snake_gif](https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg)
