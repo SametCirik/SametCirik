@@ -109,7 +109,9 @@ Take a look at the projects that excite me the most and which I believe have hig
 ----
 
 <!-- Profile View Count V1 -->
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SametCirik&label=PROFILE+VIEWS&color=green&style=flat" alt="Profil Görüntüleme Sayısı" />
+</p>
 
 <!-- Profile View Count V2 -->
 <!--
