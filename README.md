@@ -1,6 +1,6 @@
+<!--
 # Hello! I'm Samet Cırık!
 
-<!--
 ## About me
 
 I'm a technology enthusiast focused on finding solutions through **unconventional methods**, always learning from my mistakes to push myself forward. For me, coding is more than just a tool; it's the art of building my own solutions and vision from the ground up. I am currently active in **Game Development (C# & Unity)** and **Desktop UI/UX Applications (Java)**.
@@ -16,9 +16,9 @@ I'm a technology enthusiast focused on finding solutions through **unconventiona
 - **Solo Drive:** I generally prefer to execute my projects **independently**. Working with a high degree of autonomy in line with my own vision allows me to achieve the best results. *(I am aware of the challenges this preference presents and aim to develop my collaborative skills over time.)*
 
 Take a look at the projects that excite me the most and which I believe have high potential. ***Every line of code I write is a story of learning and progress.***
-
 -->
 
+<!--
 ## Description/Listed Technologies:
 
 ### Core Strength:
@@ -38,6 +38,8 @@ Take a look at the projects that excite me the most and which I believe have hig
 - **CSS**
 - **JavaScript**
 
+-->
+
 <!--
 ### Special Focus Areas:
 
@@ -45,6 +47,7 @@ Take a look at the projects that excite me the most and which I believe have hig
 - **Game Development** (Unity or Unreal Engine)
 - **VR Technologies**
 -->
+
 
 -----
 
