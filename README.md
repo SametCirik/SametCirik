@@ -36,8 +36,6 @@ I'm a technology enthusiast focused on finding solutions through **unconventiona
   <img height="149 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametCirik&layout=compact&theme=merko&hide_border=false"> 
 </div>
 
-<!-- Snake Animation -->
-![snake_gif](https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg)
 
 ----
 
@@ -93,3 +91,6 @@ Take a look at the projects that excite me the most and which I believe have hig
 - **VR Technologies**
 
 -----
+
+<!-- Snake Animation -->
+![snake_gif](https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg)
