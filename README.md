@@ -55,7 +55,7 @@ Take a look at the projects that excite me the most and which I believe have hig
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="SmtCrk-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="SmtCrk-Pyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="SmtCrk-Pyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SmtCrk-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   
   <!--
