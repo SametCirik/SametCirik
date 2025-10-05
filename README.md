@@ -82,6 +82,11 @@ Take a look at the projects that excite me the most and which I believe have hig
 
 ----
 
+<!-- Profile View Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SametCirik&label=PROFILE+VIEWS&color=green&style=flat" alt="SametCirik'in GitHub Profil Görüntüleme Sayısı" />
+</p>
+
 <!-- İletişim Bilgileri -->
 <div align="center" >
   <a href="https://bsky.app/profile/sametcirik35.bsky.social" target="_blank">
@@ -102,3 +107,5 @@ Take a look at the projects that excite me the most and which I believe have hig
 
 <!-- Snake Animation -->
 ![snake_gif](https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg)
+
+----
