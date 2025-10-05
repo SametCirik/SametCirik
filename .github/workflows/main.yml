@@ -1,97 +1,65 @@
+# İş akışının adı
 name: GitHub Snake Game
 
-
-
 on:
-
-  # Schedule the workflow to run daily at midnight UTC
-
+  # İş akışını her gün gece yarısı (UTC) otomatik olarak çalıştırır
   schedule:
-
     - cron: "0 0 * * *"
 
-
-
-  # Allow manual triggering of the workflow
-
+  # GitHub arayüzünden manuel olarak tetiklemeye izin verir
   workflow_dispatch:
 
-
-
-  # Trigger the workflow on pushes to the main branch
-
+  # 'main' branch'ine her push yapıldığında iş akışını tetikler
   push:
-
     branches:
-
       - main
 
-
-
 jobs:
-
   generate:
-
+    # İş akışının çalışacağı sanal makine türü
     runs-on: ubuntu-latest
-
+    # İş akışı 10 dakikadan uzun sürerse otomatik olarak iptal edilir
     timeout-minutes: 10
 
-
+    # ÖNEMLİ: Bu iş akışının deponun içeriğine yazma izni olmasını sağlar.
+    # Bu olmadan, 'output' branch'ine push yapılamaz.
+    permissions:
+      contents: write
 
     steps:
-
-      # Step 1: Checkout the repository
-
+      # Adım 1: Deponun güncel halini sanal makineye indirir
       - name: Checkout Repository
-
         uses: actions/checkout@v4
 
-
-
-      # Step 2: Generate the snake animations
-
+      # Adım 2: GitHub katkı grafiğinden yılan animasyonlarını oluşturur
       - name: Generate GitHub Contributions Snake Animations
-
         uses: platane/snk@v3
-
         with:
-
-          # GitHub username to generate the animation for
-
+          # Animasyonun oluşturulacağı GitHub kullanıcı adı
+          # Bu kod, deponun sahibinin adını otomatik olarak alır
           github_user_name: ${{ github.repository_owner }}
 
-
-
-          # Define the output files and their configurations
-
+          # Oluşturulacak çıktı dosyaları ve konfigürasyonları
           outputs: |
-
             dist/github-snake.svg
-
             dist/github-snake-dark.svg?palette=github-dark
-
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
         env:
+          # Katkı verilerini GitHub API'sinden çekmek için GITHUB_TOKEN gereklidir
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-
-
-
-      # Step 3: Deploy the generated files to the 'output' branch
-
+      # Adım 3: Oluşturulan dosyaları 'output' branch'ine dağıtır (deploy eder)
       - name: Deploy to Output Branch
-
         uses: peaceiris/actions-gh-pages@v4
-
         with:
-
+          # Dosyaları yeni bir branch'e gönderebilmek için GITHUB_TOKEN gereklidir
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
+          
+          # Yayınlanacak dosyaların bulunduğu klasör ('snk' aksiyonunun çıktı klasörü)
           publish_dir: ./dist
-
+          
+          # Dosyaların gönderileceği branch'in adı
           publish_branch: output
-
-          # Optionally, you can set a custom commit message
-
-          commit_message: "Update snake animation [skip ci]"
+          
+          # 'output' branch'ine atılacak commit'in mesajı
+          commit_message: "chore: update snake animations 🐍"
