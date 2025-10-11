@@ -81,6 +81,10 @@ Take a look at the projects that excite me the most and which I believe have hig
   <img height="149 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametCirik&layout=compact&theme=merko&hide_border=false"> 
 </div>
 
+----
+
+<!-- Snake Animation -->
+![snake_gif](https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg)
 
 ----
 
@@ -105,19 +109,15 @@ Take a look at the projects that excite me the most and which I believe have hig
 
 ----
 
-<!-- Snake Animation -->
-![snake_gif](https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg)
-
-----
-
-<!-- Profile View Count V1 -->
 <p align="center">
+  <!-- Profile View Count V1 -->
   <img src="https://komarev.com/ghpvc/?username=SametCirik&label=PROFILE+VIEWS&color=green&style=flat" alt="Profil Görüntüleme Sayısı" />
-</p>
 
-<!-- Profile View Count V2 -->
-<!--
-<p align="center">
+  <!-- Profile View Count V2 -->
+  <!--
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SametCirik&title=VIEWS&color=green&style=for-the-badge" alt="Profil Ziyaretçi Sayısı" />
+  -->
+  
+  <!-- Followers Count -->
+  <img src="https://img.shields.io/github/followers/SametCirik?label=FOLLOWERS&style=flat" alt="GitHub Takipçi Sayısı"/>
 </p>
--->
