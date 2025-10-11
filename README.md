@@ -1,4 +1,6 @@
-### Hello there! I'm Samet Cırık!
+<h2 align="center">
+  Hello There! I'm Samet Cırık!
+</h2>
 
 <!--
 ## About me
