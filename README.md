@@ -105,9 +105,11 @@ Take a look at the projects that excite me the most and which I believe have hig
   <a href="https://stackoverflow.com/users/YOUR_USER_ID" target="_blank">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-F58529?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank">
   </a>
+<!-- 
   <a href="https://www.youtube.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-YouTube-%23333?style=for-the-badge&logo=youtube&logoColor=red">
-</a>
+    <img src="https://img.shields.io/badge/-YouTube-%23333?style=for-the-badge&logo=youtube&logoColor=red">
+  </a>
+-->
 </div>
 
 ----
