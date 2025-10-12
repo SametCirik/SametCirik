@@ -93,15 +93,20 @@ Take a look at the projects that excite me the most and which I believe have hig
   <a href="https://bsky.app/profile/sametcirik35.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/-Bluesky-4E82F7?style=for-the-badge&logo=bluesky&logoColor=white" target="_blank">
   </a>
+  <!--
   <a href="mailto:sametcirik35@gmail.com"> 
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+  -->
   <a href="https://instagram.com/sametcirik35" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="www.linkedin.com/in/sametcirik" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+  <a href="https://stackoverflow.com/users/YOUR_USER_ID" target="_blank">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-F58529?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank">
+  </a>
   <a href="https://www.youtube.com/" target="_blank">
   <img src="https://img.shields.io/badge/-YouTube-%23333?style=for-the-badge&logo=youtube&logoColor=red">
 </a>
