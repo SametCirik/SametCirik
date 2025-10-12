@@ -93,11 +93,9 @@ Take a look at the projects that excite me the most and which I believe have hig
   <a href="https://bsky.app/profile/sametcirik35.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/-Bluesky-4E82F7?style=for-the-badge&logo=bluesky&logoColor=white" target="_blank">
   </a>
-  <!--
   <a href="mailto:sametcirik35@gmail.com"> 
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  -->
   <a href="https://instagram.com/sametcirik35" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
