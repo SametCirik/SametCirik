@@ -37,32 +37,11 @@ Take a look at the projects that excite me the most and which I believe have hig
 -----
 -->
 
------
+----
 
-## Description/Listed Technologies:
-
-### Core Strength:
-- ***Java***
-- **Arduino (C++)** 
-- **Python**
-
-### Other Proficiency Areas (from most to least):
-- **C#**
-- **C++**
-- **C**
-
-### Interested/Learning Languages:
-- **Ruby**
-- **Go**
-- **Swift**
-- **CSS**
-- **JavaScript**
-
-### Special Focus Areas:
-
-- **Artificial Intelligence** (AI)
-- **Game Development** (Unity or Unreal Engine)
-- **VR Technologies**
+### My Projects:
+- [Solitaire](https://github.com/SametCirik/Solitaire)
+- [WhatsApp KYK Bot](https://github.com/SametCirik/Whatsapp-KYK-Bot)
 
 ----
 
@@ -126,4 +105,3 @@ Take a look at the projects that excite me the most and which I believe have hig
 ![snake_gif](https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg)
 
 ----
-
