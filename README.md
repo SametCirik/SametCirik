@@ -96,7 +96,7 @@ Take a look at the projects that excite me the most and which I believe have hig
   <a href="www.linkedin.com/in/sametcirik" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="https://stackoverflow.com/users/sametcirik35" target="_blank">
+  <a href="https://stackoverflow.com/users/31204124/samet-cırık" target="_blank">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-F58529?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank">
   </a>
 <!-- 
