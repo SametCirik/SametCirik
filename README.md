@@ -2,8 +2,6 @@
   Hello There! I'm Samet Cırık!
 </h1>
 
------
-
 ## About me
 
 I'm a technology enthusiast focused on finding solutions through **unconventional methods**, always learning from my mistakes to push myself forward. For me, coding is more than just a tool; it's the art of building my own solutions and vision from the ground up. I am currently active in **Game Development (C# & Unity)** and **Desktop UI/UX Applications (Java)**.
