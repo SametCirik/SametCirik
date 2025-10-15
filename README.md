@@ -43,7 +43,7 @@ Take a look at the projects that excite me the most and which I believe have hig
 
 ### Core Strength:
 - ***Java***
-- **Arduino** 
+- **Arduino (C++)** 
 - **Python**
 
 ### Other Proficiency Areas (from most to least):
