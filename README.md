@@ -43,6 +43,7 @@ Take a look at the projects that excite me the most and which I believe have hig
 - [Solitaire](https://github.com/SametCirik/Solitaire)
 - [WhatsApp KYK Bot](https://github.com/SametCirik/Whatsapp-KYK-Bot)
 - [InkEra Drawing App](https://github.com/SametCirik/InkEra) *(not ready yet)*
+- [Graphite Drawing App - *Fork*][https://github.com/SametCirik/Graphite)
 
 ----
 
