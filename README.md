@@ -42,6 +42,7 @@ Take a look at the projects that excite me the most and which I believe have hig
 ### My Projects:
 - [Solitaire](https://github.com/SametCirik/Solitaire)
 - [WhatsApp KYK Bot](https://github.com/SametCirik/Whatsapp-KYK-Bot)
+- [Folder To Text](https://github.com/SametCirik/FolderToText)
 - [InkEra Drawing App](https://github.com/SametCirik/InkEra) *(not ready yet)*
 - [Graphite - *Forked*](https://github.com/SametCirik/Graphite) *(not started yet)*
 
