@@ -97,8 +97,8 @@ Take a look at the projects that excite me the most and which I believe have hig
 <!-- Statların boyutlarını değiştirmek istiyorsan aşağıdaki kodu yorum satırından çıkar. -->
 <div align="center" >
   <!-- <a href="https://github.com/SametCirik"> -->
-  <img height="180 cm" src="https://github-readme-stats.vercel.app/api?username=SametCirik&theme=merko&hide_border=false"> 
-  <img height="180 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametCirik&layout=compact&theme=merko&hide_border=false"> 
+  <img height="200 cm" src="https://github-readme-stats.vercel.app/api?username=SametCirik&theme=merko&hide_border=false"> 
+  <img height="200 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametCirik&layout=compact&theme=merko&hide_border=false"> 
 </div>
 
 ----
