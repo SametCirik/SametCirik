@@ -5,22 +5,22 @@
   <a href="/README_tr.md" title="Türkçe">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tr.svg" alt="Türkçe" width="30">
   </a>&nbsp;
-  <a href="./lang/README_ja.md" title="日本語">
+  <a href="/README_ja.md" title="日本語">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/jp.svg" alt="日本語" width="30">
   </a>&nbsp;
-  <a href="./lang/README_cn.md" title="简体中文">
+  <a href="/README_cn.md" title="简体中文">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cn.svg" alt="简体中文" width="30">
   </a>&nbsp;
-  <a href="./lang/README_pt.md" title="Português">
+  <a href="/README_pt.md" title="Português">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/pt.svg" alt="Português" width="30">
   </a>&nbsp;
-  <a href="./lang/README_de.md" title="Deutsch">
+  <a href="/README_de.md" title="Deutsch">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/de.svg" alt="Deutsch" width="30">
   </a>&nbsp;
-  <a href="./lang/README_fr.md" title="Français">
+  <a href="/README_fr.md" title="Français">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/fr.svg" alt="Français" width="30">
   </a>&nbsp;
-  <a href="./lang/README_ru.md" title="Русский">
+  <a href="/README_ru.md" title="Русский">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ru.svg" alt="Русский" width="30">
   </a>
 </p>
