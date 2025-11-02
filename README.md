@@ -2,7 +2,7 @@
   <a href="./README.md" title="English">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/gb.svg" alt="English" width="30">
   </a>&nbsp;
-  <a href=".blob/main/lang/README_tr.md" title="Türkçe">
+  <a href="/README_tr.md" title="Türkçe">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tr.svg" alt="Türkçe" width="30">
   </a>&nbsp;
   <a href="./lang/README_ja.md" title="日本語">
