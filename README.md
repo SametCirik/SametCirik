@@ -27,13 +27,11 @@
 
 ---
 
------
-
 <h1 align="center">
   Hello There! I'm Samet Cırık!
 </h1>
 
------
+---
 
 ## About me
 
@@ -42,7 +40,7 @@ I'm a technology enthusiast focused on finding solutions through **unconventiona
 Take a look at the projects that excite me the most and which I believe have high potential. ***Every line of code I write is a story of learning and progress.***
 
 <!--
------
+---
 
 ### My Approach to Development:
 
@@ -50,7 +48,7 @@ Take a look at the projects that excite me the most and which I believe have hig
 - **Continuous Learning:** I am always open to new technologies and challenges. My failures are valuable lessons that open the door to the next solution.
 - **Solo Drive:** I generally prefer to execute my projects **independently**. Working with a high degree of autonomy in line with my own vision allows me to achieve the best results. *(I am aware of the challenges this preference presents and aim to develop my collaborative skills over time.)*
 
------
+---
 <!--
 <p align="center">
   <!-- Profile View Count V1 
@@ -65,10 +63,10 @@ Take a look at the projects that excite me the most and which I believe have hig
   <img src="https://img.shields.io/github/followers/SametCirik?label=FOLLOWERS&style=flat" alt="GitHub Takipçi Sayısı"/>
 </p>
 
------
+---
 -->
 
-----
+---
 
 ### My Projects:
 - [Solitaire](https://github.com/SametCirik/Solitaire)
@@ -77,7 +75,7 @@ Take a look at the projects that excite me the most and which I believe have hig
 - [InkEra Drawing App](https://github.com/SametCirik/InkEra) *(not ready yet)*
 - [Graphite - *Forked*](https://github.com/SametCirik/Graphite) *(not started yet)*
 
-----
+---
 
 <!-- TODO: Github grafikleri vesaire buraya eklenecek. -->
 
@@ -92,7 +90,7 @@ Take a look at the projects that excite me the most and which I believe have hig
   -->
 </div>
 
-----
+---
 
 <!-- İletişim Bilgileri -->
 <div align="center" >
@@ -118,7 +116,7 @@ Take a look at the projects that excite me the most and which I believe have hig
 -->
 </div>
 
------
+---
 
 <!-- Statların boyutlarını değiştirmek istiyorsan aşağıdaki kodu yorum satırından çıkar. 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SametCirik&theme=merko&hide_border=false)  
@@ -132,9 +130,9 @@ Take a look at the projects that excite me the most and which I believe have hig
   <img height="187 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametCirik&layout=compact&theme=merko&hide_border=false"> 
 </div>
 
-----
+---
 
 <!-- Snake Animation -->
 ![snake_gif](https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg)
 
-----
+---
