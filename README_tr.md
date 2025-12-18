@@ -53,7 +53,9 @@
 
 ---
 
-<h3 align="center">İletişim</h3>
+<h3 align="center">
+  Bana buradan ulaşabilirsiniz
+</h3>
 
 <div align="center">
   <a href="https://bsky.app/profile/sametcirik35.bsky.social" target="_blank">
