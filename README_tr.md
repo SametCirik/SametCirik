@@ -27,69 +27,54 @@
 
 ---
 
-<h1 align="center">
-  Merhaba! Ben Samet Cırık!
-</h1>
+<h1 align="center">Samet Cırık</h1>
+
+<p align="center">
+  Oyun Geliştirme (C# & Unity) ve Masaüstü UI/UX Uygulamaları (Java) üzerine odaklanan yazılım geliştirici.
+</p>
 
 ---
 
-## Hakkımda
+<!-- Buradaki "Teknik Yetkinlikler" başlığğını sildim çünkü logolar ortalı şekildeydi ama başlık ortalı olmadığı için saçma geldi. -->
 
-Ben, çözümlere **alışılmışın dışında yöntemlerle** ulaşmaya odaklanan, hatalarımdan ders alarak daima kendini ileriye taşıyan bir teknoloji tutkunuyum.
-
-Şu anda fikirlerimi hayata geçirmek ve prototipler oluşturmak için sık sık yapay zeka destekli geliştirmeden ("vibe coding") yararlanıyorum. Bu yaklaşım öğrenme sürecimi hızlandırsa da, şu anki ana hedefim bu araçlara olan bağımlılığımı azaltmak ve daha bağımsız çalışabilmek için temel becerilerimi güçlendirmektir.
-
-Benim için kodlama bir araçtan daha fazlası; kendi çözümlerimi ve vizyonumu sıfırdan inşa etme sanatı. Şu anda **Oyun Geliştirme (C# & Unity)** ve **Masaüstü UI/UX Uygulamaları (Java)** alanlarında aktif olarak çalışıyorum.
-
-Beni en çok heyecanlandıran ve yüksek potansiyele sahip olduğuna inandığım projelerime bir göz atın. ***Yazdığım her kod satırı, bir öğrenme ve ilerleme hikayesidir.***
-
----
-
-### Projelerim:
-- [Solitaire](https://github.com/SametCirik/Solitaire)
-- [WhatsApp KYK Bot](https://github.com/SametCirik/Whatsapp-KYK-Bot)
-- [Folder To Text](https://github.com/SametCirik/FolderToText)
-- [InkEra Drawing App](https://github.com/SametCirik/InkEra) *(henüz hazır değil)*
-- [Graphite - *Forked*](https://github.com/SametCirik/Graphite) *(henüz başlanmadı)*
-
----
-
-<div align="center" style="display: inline_block">
-  <img align="center" alt="SmtCrk-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="SmtCrk-Pyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SmtCrk-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="SmtCrk-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
 </div>
 
 ---
 
-<div align="center" >
-  <a href="https://bsky.app/profile/sametcirik35.bsky.social" target="_blank">
-    <img src="https://img.shields.io/badge/-Bluesky-4E82F7?style=for-the-badge&logo=bluesky&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:sametcirik35@gmail.com"> 
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://instagram.com/sametcirik35" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="www.linkedin.com/in/sametcirik" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="https://stackoverflow.com/users/31204124/sametcirik35?tab=profile" target="_blank">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-F58529?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank">
-  </a>
+### Öne Çıkan Projelerim:
+
+* **[Solitaire](https://github.com/SametCirik/Solitaire)**: Unity ile geliştirilmiş kart oyunu motoru çalışması.
+* **[WhatsApp KYK Bot](https://github.com/SametCirik/Whatsapp-KYK-Bot)**: Verimlilik ve otomasyon odaklı servis uygulaması.
+* **[Folder To Text](https://github.com/SametCirik/FolderToText)**: Dizin yapılarını dökümante eden yardımcı araç.
+* **[InkEra Drawing App](https://github.com/SametCirik/InkEra)**: Modern çizim arayüzü konsepti (Geliştirme aşamasında).
+
+---
+
+<!-- "İletişim" Başlığını da sildim. Sebebi "Teknik Yetkinlikler" başlığıyla aynı. -->
+
+<div align="center">
+  <a href="www.linkedin.com/in/sametcirik"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sametcirik35@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://bsky.app/profile/sametcirik35.bsky.social"><img src="https://img.shields.io/badge/-Bluesky-4E82F7?style=for-the-badge&logo=bluesky&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/31204124/sametcirik35?tab=profile"><img src="https://img.shields.io/badge/-Stack%20Overflow-F58529?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
 </div>
 
 ---
 
-<div align="center" >
-  <img height="187 cm" src="https://github-readme-stats.vercel.app/api?username=SametCirik&theme=merko&hide_border=false"> 
-  <img height="187 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametCirik&layout=compact&theme=merko&hide_border=false"> 
+<!-- "İstatistikler" başlığını da sildim. Sebebi yine aynı. -->
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SametCirik&theme=merko&hide_border=false"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametCirik&layout=compact&theme=merko&hide_border=false"> 
 </div>
 
----
-
-![snake_gif](https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg" alt="GitHub Activity Snake">
+</p>
 
 ---
