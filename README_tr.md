@@ -35,8 +35,6 @@
 
 ---
 
-<!-- Buradaki "Teknik Yetkinlikler" başlığğını sildim çünkü logolar ortalı şekildeydi ama başlık ortalı olmadığı için saçma geldi. -->
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"> &nbsp;
@@ -46,7 +44,7 @@
 
 ---
 
-### Öne Çıkan Projelerim:
+<h3 align="center">Öne Çıkan Projelerim</h3>
 
 * **[Solitaire](https://github.com/SametCirik/Solitaire)**: Unity ile geliştirilmiş kart oyunu motoru çalışması.
 * **[WhatsApp KYK Bot](https://github.com/SametCirik/Whatsapp-KYK-Bot)**: Verimlilik ve otomasyon odaklı servis uygulaması.
@@ -55,18 +53,29 @@
 
 ---
 
-<!-- "İletişim" Başlığını da sildim. Sebebi "Teknik Yetkinlikler" başlığıyla aynı. -->
+<h3 align="center">İletişim</h3>
 
 <div align="center">
-  <a href="www.linkedin.com/in/sametcirik"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:sametcirik35@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://bsky.app/profile/sametcirik35.bsky.social"><img src="https://img.shields.io/badge/-Bluesky-4E82F7?style=for-the-badge&logo=bluesky&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/31204124/sametcirik35?tab=profile"><img src="https://img.shields.io/badge/-Stack%20Overflow-F58529?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+  <a href="https://bsky.app/profile/sametcirik35.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/-Bluesky-4E82F7?style=for-the-badge&logo=bluesky&logoColor=white">
+  </a>
+  <a href="mailto:sametcirik35@gmail.com"> 
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://instagram.com/sametcirik35" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="www.linkedin.com/in/sametcirik" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://stackoverflow.com/users/31204124/sametcirik35?tab=profile" target="_blank">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-F58529?style=for-the-badge&logo=stackoverflow&logoColor=white">
+  </a>
 </div>
 
 ---
 
-<!-- "İstatistikler" başlığını da sildim. Sebebi yine aynı. -->
+<h3 align="center">İstatistikler</h3>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SametCirik&theme=merko&hide_border=false"> 
