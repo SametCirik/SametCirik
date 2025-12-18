@@ -44,7 +44,7 @@
 
 ---
 
-### Featured Projects:
+<h3 align="center">Featured Projects</h3>
 
 * **[Solitaire](https://github.com/SametCirik/Solitaire)**: A card game engine study developed with Unity.
 * **[WhatsApp KYK Bot](https://github.com/SametCirik/Whatsapp-KYK-Bot)**: A service application focused on efficiency and automation.
@@ -53,14 +53,29 @@
 
 ---
 
+<h3 align="center">Contact me</h3>
+
 <div align="center">
-  <a href="www.linkedin.com/in/sametcirik"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:sametcirik35@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://bsky.app/profile/sametcirik35.bsky.social"><img src="https://img.shields.io/badge/-Bluesky-4E82F7?style=for-the-badge&logo=bluesky&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/31204124/sametcirik35?tab=profile"><img src="https://img.shields.io/badge/-Stack%20Overflow-F58529?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+  <a href="https://bsky.app/profile/sametcirik35.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/-Bluesky-4E82F7?style=for-the-badge&logo=bluesky&logoColor=white">
+  </a>
+  <a href="mailto:sametcirik35@gmail.com"> 
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://instagram.com/sametcirik35" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="www.linkedin.com/in/sametcirik" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://stackoverflow.com/users/31204124/sametcirik35?tab=profile" target="_blank">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-F58529?style=for-the-badge&logo=stackoverflow&logoColor=white">
+  </a>
 </div>
 
 ---
+
+<h3 align="center">Statistics</h3>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SametCirik&theme=merko&hide_border=false"> 
