@@ -46,7 +46,7 @@
 
 <h3 align="center">Featured Projects</h3>
 
-* **[Solitaire](https://github.com/SametCirik/Solitaire)**: A card game engine study developed with Unity.
+* **[Solitaire](https://github.com/SametCirik/Solitaire)**: A card game engine study developed with Java Swing.
 * **[WhatsApp KYK Bot](https://github.com/SametCirik/Whatsapp-KYK-Bot)**: A service application focused on efficiency and automation.
 * **[Folder To Text](https://github.com/SametCirik/FolderToText)**: A utility tool for documenting directory structures.
 * **[InkEra Drawing App](https://github.com/SametCirik/InkEra)**: A modern drawing interface concept (Work in progress).
