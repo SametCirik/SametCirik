@@ -46,7 +46,7 @@
 
 <h3 align="center">主要なプロジェクト</h3>
 
-* **[Solitaire](https://github.com/SametCirik/Solitaire)**: Unity で構築されたカードゲームエンジンの研究プロジェクト。
+* **[Solitaire](https://github.com/SametCirik/Solitaire)**: Java Swing で構築されたカードゲームエンジンの研究プロジェクト。
 * **[WhatsApp KYK Bot](https://github.com/SametCirik/Whatsapp-KYK-Bot)**: 効率化と自動化に特化したサービスアプリケーション。
 * **[Folder To Text](https://github.com/SametCirik/FolderToText)**: ディレクトリ構造をテキスト化するユーティリティツール。
 * **[InkEra Drawing App](https://github.com/SametCirik/InkEra)**: モダンな描画インターフェースのコンセプト（開発中）。
