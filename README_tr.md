@@ -46,7 +46,7 @@
 
 <h3 align="center">Öne Çıkan Projelerim</h3>
 
-* **[Solitaire](https://github.com/SametCirik/Solitaire)**: Unity ile geliştirilmiş kart oyunu motoru çalışması.
+* **[Solitaire](https://github.com/SametCirik/Solitaire)**: Java Swing ile geliştirilmiş kart oyunu motoru çalışması.
 * **[WhatsApp KYK Bot](https://github.com/SametCirik/Whatsapp-KYK-Bot)**: Verimlilik ve otomasyon odaklı servis uygulaması.
 * **[Folder To Text](https://github.com/SametCirik/FolderToText)**: Dizin yapılarını dökümante eden yardımcı araç.
 * **[InkEra Drawing App](https://github.com/SametCirik/InkEra)**: Modern çizim arayüzü konsepti (Geliştirme aşamasında).
