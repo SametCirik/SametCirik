@@ -46,7 +46,7 @@
 
 <h3 align="center">精选项目</h3>
 
-* **[Solitaire](https://github.com/SametCirik/Solitaire)**: 基于 Unity 开发的纸牌游戏引擎研究。
+* **[Solitaire](https://github.com/SametCirik/Solitaire)**: 基于 Java Swing 开发的纸牌游戏引擎研究。
 * **[WhatsApp KYK Bot](https://github.com/SametCirik/Whatsapp-KYK-Bot)**: 专注于效率和自动化的服务程序。
 * **[Folder To Text](https://github.com/SametCirik/FolderToText)**: 用于记录目录结构的实用工具。
 * **[InkEra Drawing App](https://github.com/SametCirik/InkEra)**: 现代绘画界面概念（开发中）。
