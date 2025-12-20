@@ -27,7 +27,9 @@
 
 ---
 
-<h1 align="center">Samet Cırık</h1>
+<h1 align="center">
+  萨梅特·吉里克 (Samet Cırık)
+</h1>
 
 <p align="center">
   软件开发人员，专注于游戏开发 (C# & Unity) 和桌面 UI/UX 应用程序 (Java)。
