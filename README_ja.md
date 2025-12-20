@@ -27,7 +27,9 @@
 
 ---
 
-<h1 align="center">Samet Cırık</h1>
+<h1 align="center">
+  サメット・ジュルック (Samet Cırık) 
+</h1>
 
 <p align="center">
   ゲーム開発 (C# & Unity) およびデスクトップ UI/UX アプリケーション (Java) を専門とするソフトウェア開発者です。
