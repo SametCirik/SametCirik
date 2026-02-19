@@ -46,10 +46,12 @@
 
 <h3 align="center">Featured Projects</h3>
 
-* **[Solitaire](https://github.com/SametCirik/Solitaire)**: A card game engine study developed with Java Swing.
+* **[InkEra Drawing App](https://github.com/SametCirik/InkEra)**: A modern drawing interface concept (Work in progress).
 * **[WhatsApp KYK Bot](https://github.com/SametCirik/Whatsapp-KYK-Bot)**: A service application focused on efficiency and automation.
 * **[Folder To Text](https://github.com/SametCirik/FolderToText)**: A utility tool for documenting directory structures.
-* **[InkEra Drawing App](https://github.com/SametCirik/InkEra)**: A modern drawing interface concept (Work in progress).
+* **[SC Hotspot](https://github.com/SametCirik/SC-Hotspot)**: A dynamic Wi-Fi bridge and TUI utility preventing hardware conflicts on Linux.
+* **[Solitaire](https://github.com/SametCirik/Solitaire)**: A card game engine study developed with Java Swing.
+* **[Base](https://github.com/SametCirik/Base)**: A mobile gamepad application for Linux (Focusing on the mobile UI development).
 
 ---
 
