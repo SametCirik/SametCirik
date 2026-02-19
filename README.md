@@ -78,8 +78,8 @@
 <h3 align="center">Statistics</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SametCirik&theme=merko&hide_border=false&show_icons=true" alt="GitHub Stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametCirik&layout=compact&theme=merko&hide_border=false" alt="Top Languages" /> 
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SametCirik&theme=merko&hide_border=false&show_icons=true" alt="GitHub Stats" /> 
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametCirik&layout=compact&theme=merko&hide_border=false" alt="Top Languages" /> 
 </div>
 
 <p align="center">
