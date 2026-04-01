@@ -104,25 +104,25 @@
 -->
   
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=SametCirik&show_icons=true&theme=radical"/>
-  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=SametCirik&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=SametCirik&show_icons=true&theme=merko"/>
+  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=SametCirik&theme=merko"/>
 </div>
 
 <table>
 <tr>
 <td width="33%">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SametCirik&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SametCirik&layout=donut&theme=merko&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
 
 </td>
 <td width="33%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SametCirik&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SametCirik&theme=merko" />
 
 </td>
 <td width="33%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SametCirik&theme=radical&utc_offset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SametCirik&theme=merko&utc_offset=5.5" />
 
 </td>
 </tr>
