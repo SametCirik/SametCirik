@@ -80,12 +80,64 @@
 
 ---
 
-<h3 align="center">Statistics</h3>
+<div align="center">
+
+  <h3>
+    Statistics
+    <!--
+    <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+    -->
+  </h3>
+
+<!--
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Fullstack+Developer;MERN+Stack+Builder;Next.js+Enthusiast;React+Lover;Open+Source+Contributor"
+      />
+    </a>
+  </div>
+-->
+  
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=SametCirik&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=SametCirik&theme=radical"/>
+</div>
+
+<table>
+<tr>
+<td width="33%">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SametCirik&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SametCirik&theme=radical" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SametCirik&theme=radical&utc_offset=5.5" />
+
+</td>
+</tr>
+</table>
+</p>
+
+</div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SametCirik&theme=merko&hide_border=false&show_icons=true" alt="GitHub Stats" /> 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametCirik&layout=compact&theme=merko&hide_border=false" alt="Top Languages" /> 
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SametCirik&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Samet%20Cırık's%20Contribution%20Graph" width="100%"/>
+
 </div>
+
+---
 
 <p align="center">
   <img src="https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg" alt="GitHub Activity Snake">
