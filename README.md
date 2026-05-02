@@ -52,6 +52,7 @@
 <h3 align="center">Featured Projects</h3>
 
 * **[InkEra Studio Drawing App](https://github.com/SametCirik/InkEra)**: A modern drawing interface concept (Work in progress).
+* **[Fountext Screenwriting Editor](https://github.com/SametCirik/Fountext-Screenwriting-Editor):** Fountain screenwriting editor written in Python for Linux.
 * **[WhatsApp KYK Bot](https://github.com/SametCirik/Whatsapp-KYK-Bot)**: A service application focused on efficiency and automation.
 * **[Folder To Text](https://github.com/SametCirik/FolderToText)**: A utility tool for documenting directory structures.
 * **[SC Hotspot](https://github.com/SametCirik/SC-Hotspot)**: A dynamic Wi-Fi bridge and TUI utility preventing hardware conflicts on Linux.
