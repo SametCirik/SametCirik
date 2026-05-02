@@ -30,7 +30,7 @@
 <h1 align="center">Samet Cırık</h1>
 
 <p align="center">
-  Mechatronics Engineering Student & Junior Developer 🛠️<br>
+  Mechatronics Engineering Student & Junior Developer<br>
   Specializing in <b>UI/UX Design</b>, <b>Java Desktop (Swing/JavaFX)</b>, and <b>Data Analysis</b>.
 </p>
 
