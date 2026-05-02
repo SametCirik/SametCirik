@@ -113,7 +113,7 @@
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SametCirik&bg_color=00000000&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SametCirik&bg_color=00000000&color=90EE23&line=70A5FD&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
