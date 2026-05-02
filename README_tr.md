@@ -5,7 +5,6 @@
   <a href="/README_tr.md" title="Türkçe">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tr.svg" alt="Türkçe" width="30">
   </a>&nbsp;
-<!--
   <a href="/README_ja.md" title="日本語">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/jp.svg" alt="日本語" width="30">
   </a>&nbsp;
@@ -24,7 +23,6 @@
   <a href="/README_ru.md" title="Русский">
     <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ru.svg" alt="Русский" width="30">
   </a>
--->
 </p>
 
 ---
