@@ -31,7 +31,7 @@
 
 <p align="center">
   Mekatronik Mühendisliği Öğrencisi & Junior Geliştirici<br>
-  <b>UI/UX Tasarım</b>, <b>Java Masaüstü (Swing/JavaFX)</b> ve <b>Veri Analizi</b> üzerine odaklı.
+  <b>UI/UX Tasarım</b>, <b>Java Masaüstü (Swing/JavaFX)</b> ve <b>Veri Analizi</b> alanlarında uzmanlaşıyor.
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@
 ---
 
 <div align="center">
-  <h3>İstatistikler & Aktivite</h3>
+  <h3>İstatistikler ve Aktivite</h3>
   <table border="0">
     <tr>
       <td>
@@ -112,8 +112,8 @@
         <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=SametCirik&show_icons=true&theme=merko&hide_border=true" />
       </td>
     </tr>
-  </table>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SametCirik&bg_color=00000000&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  </table> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SametCirik&bg_color=00000000&color=90EE23&line=3EC689&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
