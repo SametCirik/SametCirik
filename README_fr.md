@@ -30,30 +30,56 @@
 <h1 align="center">Samet Cırık</h1>
 
 <p align="center">
-  Développeur logiciel spécialisé dans le Développement de Jeux (C# & Unity) et les Applications Bureau UI/UX (Java).
+  Étudiant en Ingénierie Mécatronique & Développeur Junior<br>
+  Spécialisé en <b>Design UI/UX</b>, <b>Bureau Java (Swing/JavaFX)</b>, et <b>Analyse de Données</b>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white" alt="Arch Linux">
+  <img src="https://img.shields.io/badge/Hardware-HP%20Laptop-0096D6?logo=hp&logoColor=white" alt="HP Laptop">
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"><br>Java
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"><br>C#
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"><br>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"><br>C++
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"><br>Arduino
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<h3 align="center">Projets Phares</h3>
+<h3 align="center">Projets en Vedette</h3>
 
-* **[Solitaire](https://github.com/SametCirik/Solitaire)** : Une étude de moteur de jeu de cartes développée avec Java Swing.
-* **[WhatsApp KYK Bot](https://github.com/SametCirik/Whatsapp-KYK-Bot)** : Application de service axée sur l'efficacité et l'automatisation.
-* **[Folder To Text](https://github.com/SametCirik/FolderToText)** : Outil utilitaire pour documenter les structures de répertoires.
-* **[InkEra Drawing App](https://github.com/SametCirik/InkEra)** : Concept d'interface de dessin moderne (En cours de développement).
+<p align="center">
+  <b><a href="https://github.com/SametCirik/InkEra">InkEra Studio Drawing App</a></b>: Un concept d'interface de dessin moderne (En cours de développement).<br>
+  <b><a href="https://github.com/SametCirik/Fountext-Screenwriting-Editor">Fountext Screenwriting Editor</a></b>: Éditeur de scénarios Fountain écrit en Python pour Linux.<br>
+  <b><a href="https://github.com/SametCirik/Whatsapp-KYK-Bot">WhatsApp KYK Bot</a></b>: Une application de service axée sur l'efficacité et l'automatisation.<br>
+  <b><a href="https://github.com/SametCirik/FolderToText">Folder To Text</a></b>: Un outil utilitaire pour documenter les structures de répertoires.<br>
+  <b><a href="https://github.com/SametCirik/SC-Hotspot">SC Hotspot</a></b>: Un pont Wi-Fi dynamique et un utilitaire TUI évitant les conflits matériels sur Linux.<br>
+  <b><a href="https://github.com/SametCirik/Solitaire">Solitaire</a></b>: Une étude de moteur de jeu de cartes développée avec Java Swing.<br>
+  <b><a href="https://github.com/SametCirik/Base">Base</a></b>: Une application de manette de jeu mobile pour Linux (Axée sur le développement de l'interface utilisateur mobile).
+</p>
 
 ---
 
-<h3 align="center">Vous pouvez me contacter ici</h3>
+<h3 align="center">Me contacter</h3>
 
 <div align="center">
   <a href="https://bsky.app/profile/sametcirik35.bsky.social" target="_blank">
@@ -75,8 +101,23 @@
 
 ---
 
-<h3 align="center">Statistiques</h3>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SametCirik&theme=merko&hide_border=false"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametCirik&layout=compact&theme=merko&hide
+  <h3>Statistiques et Activité</h3>
+  <table border="0">
+    <tr>
+      <td>
+        <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SametCirik&layout=donut&theme=merko&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41" />
+      </td>
+      <td>
+        <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=SametCirik&show_icons=true&theme=merko&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SametCirik&bg_color=00000000&color=90EE23&line=3EC689&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/SametCirik/SametCirik/blob/output/github-snake-dark.svg" alt="GitHub Activity Snake">
+</p>
