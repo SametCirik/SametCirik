@@ -30,7 +30,7 @@
 <h1 align="center">Samet Cırık</h1>
 
 <p align="center">
-  Mekatronik Mühendisliği Öğrencisi & Junior Geliştirici 🛠️<br>
+  Mekatronik Mühendisliği Öğrencisi & Junior Geliştirici<br>
   <b>UI/UX Tasarım</b>, <b>Java Masaüstü (Swing/JavaFX)</b> ve <b>Veri Analizi</b> üzerine odaklı.
 </p>
 
