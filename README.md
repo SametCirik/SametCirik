@@ -69,21 +69,37 @@
 
 <h3 align="center">Featured Projects</h3>
 
-*   **[InkEra Studio](https://github.com/SametCirik/InkEra)**: A digital drawing application developed with Java.
-*   **[Fountext](https://github.com/SametCirik/Fountext-Screenwriting-Editor)**: Python-based screenwriting editor using Fountain syntax.
-*   **[WhatsApp KYK Bot v2.0](https://github.com/SametCirik/Whatsapp-KYK-Bot)**: Efficiency-focused headless CLI tool.
-*   **[Solitaire](https://github.com/SametCirik/Solitaire)**: A card game engine study developed with **Java Swing**.
-*   **[SC Hotspot](https://github.com/SametCirik/SC-Hotspot)**: TUI utility for dynamic Wi-Fi bridging on Linux.
+<p align="center">
+  <b><a href="https://github.com/SametCirik/InkEra">InkEra Studio Drawing App</a></b>: A modern drawing interface concept (Work in progress).<br>
+  <b><a href="https://github.com/SametCirik/Fountext-Screenwriting-Editor">Fountext Screenwriting Editor</a></b>: Fountain screenwriting editor written in Python for Linux.<br>
+  <b><a href="https://github.com/SametCirik/Whatsapp-KYK-Bot">WhatsApp KYK Bot</a></b>: A service application focused on efficiency and automation.<br>
+  <b><a href="https://github.com/SametCirik/FolderToText">Folder To Text</a></b>: A utility tool for documenting directory structures.<br>
+  <b><a href="https://github.com/SametCirik/SC-Hotspot">SC Hotspot</a></b>: A dynamic Wi-Fi bridge and TUI utility preventing hardware conflicts on Linux.<br>
+  <b><a href="https://github.com/SametCirik/Solitaire">Solitaire</a></b>: A card game engine study developed with Java Swing.<br>
+  <b><a href="https://github.com/SametCirik/Base">Base</a></b>: A mobile gamepad application for Linux (Focusing on the mobile UI development).
+</p>
 
 ---
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Contact me</h3>
 
-<p align="center">
-  <a href="www.linkedin.com/in/sametcirik"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://bsky.app/profile/sametcirik35.bsky.social"><img src="https://img.shields.io/badge/-Bluesky-4E82F7?style=for-the-badge&logo=bluesky&logoColor=white"></a>
-  <a href="mailto:sametcirik35@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<div align="center">
+  <a href="https://bsky.app/profile/sametcirik35.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/-Bluesky-4E82F7?style=for-the-badge&logo=bluesky&logoColor=white">
+  </a>
+  <a href="mailto:sametcirik35@gmail.com"> 
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://instagram.com/sametcirik35" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="www.linkedin.com/in/sametcirik" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://stackoverflow.com/users/31204124/sametcirik35?tab=profile" target="_blank">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-F58529?style=for-the-badge&logo=stackoverflow&logoColor=white">
+  </a>
+</div>
 
 ---
 
