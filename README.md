@@ -112,7 +112,7 @@
         <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=SametCirik&show_icons=true&theme=merko&hide_border=true" />
       </td>
     </tr>
-  </table> #08110b
+  </table> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SametCirik&bg_color=00000000&color=90EE23&line=3EC689&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </div>
 
