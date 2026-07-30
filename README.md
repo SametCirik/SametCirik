@@ -39,6 +39,10 @@
   <img src="https://img.shields.io/badge/Hardware-HP%20Laptop-0096D6?logo=hp&logoColor=white" alt="HP Laptop">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SametCirik&label=Profile%20Views&color=lightgrey&style=for-the-badge" alt="Profile views" />
+</p>
+
 ---
 
 <div align="center">
