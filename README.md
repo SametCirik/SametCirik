@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SametCirik&label=Profile%20Views&color=lightgrey&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SametCirik&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
